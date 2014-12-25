@@ -32,6 +32,7 @@
 *Board member, April 2013 - Current*
 
 * Board member of a 501(c)3 non-profit organization dedicated to the preservation and spread of American vintage swing dance.
+* Fundraising to provide free swing dance education to Seattle-area high schools.
 * Organized club events with between 100-300 attendees.
 * Maintained club website.
 
