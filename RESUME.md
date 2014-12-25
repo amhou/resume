@@ -9,7 +9,7 @@
 
 ## Experience
 
-####Amazon, Inc.
+####Amazon.com, Inc.
 *Software Development Engineer, February 2013 - Current*
 
 * Developed and distributed Amazon SDKs for Android-based Kindle devices, including Fire Phone, Fire TV, and Fire Tablets.
