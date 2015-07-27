@@ -12,7 +12,7 @@
 ####TUNE, Inc.
 *Software Development Engineer, May 2015 - Current*
 
-*Appstore analytics with a Ruby on Rails application for MobileDevHQ.
+* Appstore analytics with a Ruby on Rails application for MobileDevHQ.
 
 ####Amazon.com, Inc.
 *Software Development Engineer, February 2013 - April 2015*
