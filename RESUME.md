@@ -9,8 +9,13 @@
 
 ## Experience
 
+####TUNE, Inc.
+*Software Development Engineer, May 2015 - Current*
+
+*Appstore analytics with a Ruby on Rails application for MobileDevHQ.
+
 ####Amazon.com, Inc.
-*Software Development Engineer, February 2013 - Current*
+*Software Development Engineer, February 2013 - April 2015*
 
 * Developed and distributed Amazon SDKs for Android-based Kindle devices, including Fire Phone, Fire TV, and Fire Tablets.
 * Created sample applications exhibiting the use of Amazon APIs for distribution to 3P developers.
