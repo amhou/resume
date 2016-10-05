@@ -13,6 +13,8 @@
 *Software Development Engineer, May 2015 - Current*
 
 * Appstore analytics with a Ruby on Rails application for MobileDevHQ.
+* Web crawling and data ingestion of over 2 billion data points daily.
+* Architecting microservices using Docker, Resque, and Ruby.
 
 ####Amazon.com, Inc.
 *Software Development Engineer, February 2013 - April 2015*
@@ -60,6 +62,6 @@ B.A. Mathematics, September 2008 - August 2011
 
 ## Skills
 
-* Java, Android, GNU Make, Python, JavaScript, HTML, CSS. Can work natively in Linux, Mac, and Windows.
+* Ruby, Docker, Java, Android, GNU Make, Python, JavaScript, HTML, CSS. Can work natively in Linux, Mac, and Windows.
 * Fluent in Mandarin Chinese and English. Excellent communication and analytical skills.
 * Swing dance instructor and event organizer.
