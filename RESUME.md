@@ -12,6 +12,7 @@
 #### TUNE, Inc.
 *Software Development Engineer, May 2015 - Current*
 
+* HasOffers API. Modernizing development practices, integrating with a continuous-integration pipeline, and improving deployments. Migrating from a puppet-based deployment to docker.
 * Push Prepare Pipeline for In-App Marketing, processing and managing millions of personalized push notifications.
 * App Store Analytics with a Ruby on Rails application.
 * Web crawling and data ingestion of over 2 billion data points daily.
