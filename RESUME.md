@@ -5,7 +5,7 @@
 
 ---
 
-## Experience
+## Work Experience
 
 #### Textio
 *Software Development Engineer, July 2018 - Current*
@@ -34,23 +34,20 @@
 
 #### Cequint, Inc.
 *Software Development Engineer, August 2012 - January 2013*
-
-* Developed content-rich multimedia mobile messaging system for carriers to reach customers. Implemented in HTML, CSS, Javascript, and native Android (Java).
-
-#### Cequint, Inc.
 *Software Test Engineer, October 2011 - August 2012*
 
 * End to end testing on mobile applications and back-end systems.
 * Development of in-house test-automation and test-tooling.
+* Developed content-rich multimedia mobile messaging system for carriers to reach customers. Implemented in HTML, CSS, Javascript, and native Android (Java).
 
-#### Northwest Balboa Festival
-*Co-founder, January 2014 - Current*
+## Volunteer Experience
 
-* Co-founder and Organizer of a non-profit Balboa swing dance festival in Seattle, WA.
-* Event hosts 150-200 attendees with classes, live music, happy hours.
-* Yearly gross of over $10,000, remaining steady over the last 3 years.
-* Maintain festival website, run registration system, Emcee during event.
-* Manage a team of 8-10 volunteers over the course of the weekend.
+#### Stephen Ministry
+*Bethany Community Church, February 2018 - Current*
+
+* Conduct weekly lay-caregiving visits with individuals for a variety of spiritual and emotional needs.
+* Participate in over 50 hours of training in order to become qualified for serving, convering topics such as confidentiality, boundaries, and methods for peer-to-peer support.
+* Participate in bimonthly continuing education.
 
 #### California Balboa Classic
 *Registration Director, April 2016 - Current*
@@ -61,13 +58,14 @@
 * Processed the timely check-in of all attendees for weekend event.
 * Manage a team of 8-10 volunteers over the course of the weekend.
 
-#### Savoy Swing Club
-*Board member, April 2013 - October 2015*
+#### Northwest Balboa Festival
+*Co-founder, January 2014 - Current*
 
-* Board member of a 501(c)3 non-profit organization dedicated to the preservation and spread of American vintage swing dance.
-* Fundraising to provide free swing dance education to Seattle-area high schools.
-* Organized club events with between 100-300 attendees.
-* Maintained club website.
+* Co-founder and Organizer of a non-profit Balboa swing dance festival in Seattle, WA.
+* Event hosts 150-200 attendees with classes, live music, happy hours.
+* Yearly gross of over $10,000, remaining steady over the last 3 years.
+* Maintain festival website, run registration system, Emcee during event.
+* Manage a team of 8-10 volunteers over the course of the weekend.
 
 #### Boy Scouts of America
 *Member, December 2004 - January 2012*
@@ -91,5 +89,5 @@ B.A. Mathematics, September 2008 - August 2011
 * Ruby, Python, Docker, Elasticsearch, Java, Android, GNU Make, JavaScript, HTML, CSS. Can work natively in Linux, Mac, and Windows.
 * Fluent in Mandarin Chinese and English. Excellent communication and analytical skills.
 * Experienced in leading teams between 8-10 people on a regular basis.
-* Extremely proficient rock climber, with outdoor redpoint grades of up to 5.13 (sport), V8 (boulder), and 5.12 (traditional).
+* Extremely proficient rock climber, with outdoor redpoint grades of up to 5.13 (sport), V8 (boulder), 5.12 (traditional), and Grade VI (big wall).
 * Swing dance instructor and event organizer.
