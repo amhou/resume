@@ -7,14 +7,14 @@
 
 ## Work Experience
 
-#### Textio
+### Textio
 *Software Development Engineer, July 2018 - Current*
 
 * Product services team. Data curation and pipelining, creating a daily pipeline to snapshot the database to collect time-series data.
 * Created a daily crawler that aggregates user emails written using the Textio for Outlook plugin in order to measure efficacy.
 * Repackaged and refactored document scoring models in order to ease the integration of new model factors.
 
-#### TUNE, Inc.
+### TUNE, Inc.
 *Software Development Engineer, May 2015 - June 2018*
 
 * HasOffers API. Modernizing development practices, integrating with a continuous-integration pipeline, and improving deployments. Migrating from a puppet-based deployment to docker.
@@ -24,7 +24,7 @@
 * APIs for exposing data both internally and externally.
 * Architecting microservices using Docker, Resque, Sidekiq, Elasticsearch, MySQL, and Ruby.
 
-#### Amazon.com, Inc.
+### Amazon.com, Inc.
 *Software Development Engineer, February 2013 - April 2015*
 
 * Developed and distributed Amazon SDKs for Android-based Kindle devices, including Fire Phone, Fire TV, and Fire Tablets.
@@ -32,7 +32,7 @@
 * Curated Amazon platform APIs for distribution in Amazon SDKs.
 * Created in-house tools for guaranteeing API compatibility and measuring API differentiation.
 
-#### Cequint, Inc.
+### Cequint, Inc.
 *Software Development Engineer, August 2012 - January 2013*
 *Software Test Engineer, October 2011 - August 2012*
 
@@ -42,23 +42,22 @@
 
 ## Volunteer Experience
 
-#### Stephen Ministry
+### Stephen Ministry
 *Bethany Community Church, February 2018 - Current*
 
-* Conduct weekly lay-caregiving visits with individuals for a variety of spiritual and emotional needs.
+* Conduct weekly lay-caregiving visits with individuals for spiritual and emotional needs.
 * Participate in over 50 hours of training in order to become qualified for serving, convering topics such as confidentiality, boundaries, and methods for peer-to-peer support.
 * Participate in bimonthly continuing education.
 
-#### California Balboa Classic
+### California Balboa Classic
 *Registration Director, April 2016 - Current*
 
 * Registration director for a non-profit Balboa swing dance festival in Newport Beach, CA.
-* Managed registration system for all paying customers and non paying guests, with over 700 attendees.
+* Managed registration system for all guests, with over 700 attendees.
 * Managed all incoming payments, grossing over $140,000.
-* Processed the timely check-in of all attendees for weekend event.
-* Manage a team of 8-10 volunteers over the course of the weekend.
+* Manage a team of 8-10 volunteers, processing timely check-ins over the course of the weekend.
 
-#### Northwest Balboa Festival
+### Northwest Balboa Festival
 *Co-founder, January 2014 - Current*
 
 * Co-founder and Organizer of a non-profit Balboa swing dance festival in Seattle, WA.
@@ -67,19 +66,18 @@
 * Maintain festival website, run registration system, Emcee during event.
 * Manage a team of 8-10 volunteers over the course of the weekend.
 
-#### Boy Scouts of America
+### Boy Scouts of America
 *Member, December 2004 - January 2012*
 
 * Eagle Scout, National Eagle Scout Association member
-* Order of the Arrow member
-* Section W-1N 2011 Conclave Vice Chief
+* Order of the Arrow, Vigil member
 * Assistant Scoutmaster, Troop 9-266, Pacific Harbors Council
 
 ---------
 
 ## Education
 
-#### University of Washington
+### University of Washington
 B.A. Mathematics, September 2008 - August 2011
 
 ---------
