@@ -40,6 +40,15 @@
 * Development of in-house test-automation and test-tooling.
 * Developed content-rich multimedia mobile messaging system for carriers to reach customers. Implemented in HTML, CSS, Javascript, and native Android (Java).
 
+### Warehouse Rock Gym
+*Gym Employee, August 2008 - June 2011*
+
+* General staff. Responsible for member check-in, point of sale, data entry, customer service, and general cleanliness of the facility. Performed cash-out and deposit dropoffs when needed.
+* Instructor. Provided instruction including belay classes, movement and training technique, and safety exercises.
+* Routesetter. Set routes for bouldering and sport climbing walls. Performed wall maintenance. USA Climbing Routesetting Level 1 Certification.
+* Helped coordinate climbing competitions, special events, and birthday parties.
+* Continued as volunteer routesetter for annual South Sound Pull Down competition until 2013.
+
 ## Volunteer Experience
 
 ### Stephen Ministry
