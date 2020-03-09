@@ -10,7 +10,8 @@
 ### Textio
 *Software Development Engineer, July 2018 - Current*
 
-* Regularly manage projects as Lead Engineer, working with a team of multiple engineers and designers.
+* Lead Engineer on many products, including in-app analytics and multiple internal tools. Lead a team of multiple engineers and designers.
+* Created standard operating procedures for reporting project statuses across the company.
 * Data curation and pipelining, creating a daily pipeline to snapshot the database to collect time-series data.
 * Created a daily crawler that aggregates user emails written using the Textio for Outlook plugin in order to measure efficacy.
 * Repackaged and refactored document scoring models in order to ease the integration of new model factors.
@@ -42,12 +43,13 @@
 * Developed content-rich multimedia mobile messaging system for carriers to reach customers. Implemented in HTML, CSS, Javascript, and native Android (Java).
 
 ### Warehouse Rock Gym
-*Gym Employee, August 2008 - June 2011*
+*Core Staff, August 2008 - June 2011*
 
-* General staff. Responsible for member check-in, point of sale, data entry, customer service, and general cleanliness of the facility. Performed cash-out and deposit dropoffs when needed.
+* Performed multiple responsibilites in a small business where flexibility and adaptability were required on a daily basis.
+* Routesetter. Managed volunteer routesetters, coordinated setting schedule. Set routes for bouldering and sport climbing walls. Performed wall maintenance. USA Climbing Routesetting Level 1 Certification.
+* Managed Events calendar, including climbing competitions, birthday parties, and special events.
 * Instructor. Provided instruction including belay classes, movement and training technique, and safety exercises.
-* Routesetter. Managed the schedule for routesetting. Set routes for bouldering and sport climbing walls. Performed wall maintenance. USA Climbing Routesetting Level 1 Certification.
-* Helped coordinate climbing competitions, special events, and birthday parties.
+* General staff. Responsible for member check-in, point of sale, data entry, customer service, and general cleanliness of the facility. Performed cash-out and deposit dropoffs as needed.
 * Continued as volunteer routesetter for annual South Sound Pull Down competition until 2013.
 
 ## Volunteer Experience
