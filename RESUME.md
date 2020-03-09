@@ -10,7 +10,8 @@
 ### Textio
 *Software Development Engineer, July 2018 - Current*
 
-* Product services team. Data curation and pipelining, creating a daily pipeline to snapshot the database to collect time-series data.
+* Regularly manage projects as Lead Engineer, working with a team of multiple engineers and designers.
+* Data curation and pipelining, creating a daily pipeline to snapshot the database to collect time-series data.
 * Created a daily crawler that aggregates user emails written using the Textio for Outlook plugin in order to measure efficacy.
 * Repackaged and refactored document scoring models in order to ease the integration of new model factors.
 
@@ -45,7 +46,7 @@
 
 * General staff. Responsible for member check-in, point of sale, data entry, customer service, and general cleanliness of the facility. Performed cash-out and deposit dropoffs when needed.
 * Instructor. Provided instruction including belay classes, movement and training technique, and safety exercises.
-* Routesetter. Set routes for bouldering and sport climbing walls. Performed wall maintenance. USA Climbing Routesetting Level 1 Certification.
+* Routesetter. Managed the schedule for routesetting. Set routes for bouldering and sport climbing walls. Performed wall maintenance. USA Climbing Routesetting Level 1 Certification.
 * Helped coordinate climbing competitions, special events, and birthday parties.
 * Continued as volunteer routesetter for annual South Sound Pull Down competition until 2013.
 
@@ -55,6 +56,7 @@
 *Bethany Community Church, February 2018 - Current*
 
 * Conduct weekly lay-caregiving visits with individuals for spiritual and emotional needs.
+* Act as Group Leader for a team of 5 volunteeers.
 * Participate in over 50 hours of training in order to become qualified for serving, convering topics such as confidentiality, boundaries, and methods for peer-to-peer support.
 * Participate in bimonthly continuing education.
 
@@ -74,6 +76,9 @@
 * Yearly gross of over $10,000, remaining steady over the last 3 years.
 * Maintain festival website, run registration system, Emcee during event.
 * Manage a team of 8-10 volunteers over the course of the weekend.
+
+### Climbing Area Maintenance
+* Regularly inspect safety equipment at local climbing areas, replacing it when necessary.
 
 ### Boy Scouts of America
 *Member, December 2004 - January 2012*
@@ -95,6 +100,6 @@ B.A. Mathematics, September 2008 - August 2011
 
 * Ruby, Python, Docker, Elasticsearch, Java, Android, GNU Make, JavaScript, HTML, CSS. Can work natively in Linux, Mac, and Windows.
 * Fluent in Mandarin Chinese and English. Excellent communication and analytical skills.
-* Experienced in leading teams between 8-10 people on a regular basis.
-* Extremely proficient rock climber, with outdoor redpoint grades of up to 5.13 (sport), V8 (boulder), 5.12 (traditional), and Grade VI (big wall).
+* Experienced in leading teams between 8-10 people on a regular basis, in both volunteer and professional capacities.
 * Swing dance instructor and event organizer.
+* Extremely proficient rock climber, with outdoor redpoint grades of up to 5.13 (sport), V8 (boulder), 5.12 (traditional), and Grade VI (big wall).
