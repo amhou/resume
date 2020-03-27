@@ -11,8 +11,8 @@
 *Software Development Engineer, July 2018 - Current*
 
 * Lead Engineer on many products, including in-app analytics and multiple internal tools. Lead a team of multiple engineers and designers.
-* Created Lambda-based ETL jobs to power in-app analytics, orchestrated by AWS StepFunctions and stored in DynamoDB. All work completed in Python.
-* Built a novel-for-Textio pipeline collecting time-series historical data, implementing AWS Batch and Redshift.
+* Created Lambda-based ETL jobs to power in-app analytics, orchestrated by AWS StepFunctions and stored in DynamoDB.
+* Built a novel-for-Textio pipeline collecting time-series historical data, implementing AWS Batch.
 * Built Docker-based grammar-checking web service, deployed to AWS Elastic Container Service.
 * Created a daily crawler that aggregates user emails written using the Textio for Outlook plugin in order to measure efficacy, using AWS Lambda and AzureAD.
 * Repackaged and refactored document scoring models in order to ease the integration of new model factors.
@@ -44,6 +44,16 @@
 * Development of in-house test-automation and test-tooling.
 * Developed content-rich multimedia mobile messaging system for carriers to reach customers. Implemented in HTML, CSS, Javascript, and native Android (Java).
 
+### Warehouse Rock Gym
+*Core Staff, August 2008 - June 2011*
+
+* Performed multiple responsibilites in a small business where flexibility and adaptability were required on a daily basis.
+* Routesetter. Managed volunteer routesetters, coordinated setting schedule. Set routes for bouldering and sport climbing walls. Performed wall maintenance. USA Climbing Routesetting Level 1 Certification.
+* Managed Events calendar, including climbing competitions, birthday parties, and special events.
+* Instructor. Provided instruction including belay classes, movement and training technique, and safety exercises.
+* General staff. Responsible for member check-in, point of sale, data entry, customer service, and general cleanliness of the facility. Performed cash-out and deposit dropoffs as needed.
+* Continued as volunteer routesetter for annual South Sound Pull Down competition until 2013.
+
 ## Volunteer Experience
 
 ### Stephen Ministry
@@ -70,6 +80,9 @@
 * Yearly gross of over $10,000, remaining steady over the last 3 years.
 * Maintain festival website, run registration system, Emcee during event.
 * Manage a team of 8-10 volunteers over the course of the weekend.
+
+### Climbing Area Maintenance
+* Regularly inspect safety equipment at local climbing areas, replacing it when necessary.
 
 ### Boy Scouts of America
 *Member, December 2004 - January 2012*
